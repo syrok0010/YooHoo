@@ -1,0 +1,11 @@
+﻿/Library/
+/Packages/
+/ProjectSettings/
+/res/
+/UserSettings/
+/.vs/YooHoo/v16/
+/Assembly-CSharp.csproj
+/YooHoo.sln
+/obj/Debug/
+/Logs/
+/.idea/.idea.YooHoo/
